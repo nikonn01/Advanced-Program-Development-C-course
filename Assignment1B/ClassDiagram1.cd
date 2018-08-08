@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ctlSvgPlayground.Model.PlaneShape">
+    <Position X="3" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ctlSvgPlayground.Model.HelicopterShape">
+    <Position X="5" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ctlSvgPlayground.Model.Cloud">
+    <Position X="1" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ctlSvgPlayground.ctlShapePlayground">
+    <Position X="5" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl">
+    <Position X="7" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ctlSvgPlayground.Controller.ShapeList">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment1B.Form1">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <Members>
+      <Field Name="btnExit" Hidden="true" />
+      <Field Name="btnLoad" Hidden="true" />
+      <Field Name="btnNew" Hidden="true" />
+      <Field Name="btnSave" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAECAAAAAAAACACAACACAIABgAAAAAAIIAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1B.View1">
+    <Position X="4.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwAAACIAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment1B.View2">
+    <Position X="6.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAECIAAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assignment1B.View3">
+    <Position X="8.5" Y="15.75" Width="1.5" />
+    <Members>
+      <Field Name="btnDeleteShape" Hidden="true" />
+      <Field Name="btnNewShape" Hidden="true" />
+      <Field Name="btnUpdateShape" Hidden="true" />
+      <Field Name="cmbIShape" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="gbpShapeCoordintes" Hidden="true" />
+      <Field Name="gpbIShape" Hidden="true" />
+      <Field Name="gpbShapeColor" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label21" Hidden="true" />
+      <Field Name="label22" Hidden="true" />
+      <Field Name="label23" Hidden="true" />
+      <Field Name="label24" Hidden="true" />
+      <Field Name="label25" Hidden="true" />
+      <Field Name="label26" Hidden="true" />
+      <Field Name="label27" Hidden="true" />
+      <Field Name="label28" Hidden="true" />
+      <Field Name="label29" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label30" Hidden="true" />
+      <Field Name="label31" Hidden="true" />
+      <Field Name="label32" Hidden="true" />
+      <Field Name="label33" Hidden="true" />
+      <Field Name="label34" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="lblSelectColor" Hidden="true" />
+      <Field Name="lblXcoordinate" Hidden="true" />
+      <Field Name="lblYcoordinate" Hidden="true" />
+      <Field Name="listBox1" Hidden="true" />
+      <Field Name="txtXcoordinate" Hidden="true" />
+      <Field Name="txtYcoordinate" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>/wEgIREAACOJAFAgAgCAAAECAAAgAApAAAgABAAAADQ=</HashCode>
+      <FileName>View3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="1.5" Y="13.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="ctlSvgPlayground.Model.IShape">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ctlSvgPlayground.Controller.IViewController">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ctlSvgPlayground.Controller.IViewUpdate">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
