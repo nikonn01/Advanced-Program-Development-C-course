@@ -6,7 +6,7 @@ Main Menu allows user to start a new game, upload existing game and save the gam
 
 <img src="https://github.com/nikonn01/Advanced-Program-Development-C-course/blob/master/Main%20Form.JPG" width="30%" height="30%">
 
-The first playground form allows user to add different shapes, chenge their color and position. Helicopter and plane can't go to clouds 
+The first playground form allows user to add different shapes, change their colour and position. Helicopter and plane can't go to clouds 
 
 <img src="https://github.com/nikonn01/Advanced-Program-Development-C-course/blob/master/Playground%201.jpg">
 
