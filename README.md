@@ -10,10 +10,10 @@ The first playground form allows user to add different shapes, change their colo
 
 <img src="https://github.com/nikonn01/Advanced-Program-Development-C-course/blob/master/Playground%201.jpg">
 
-The second playground form allows user to see all shapes but user can't modify them
+The second playground form allows user to see all shapes, but user can't modify them
 
 <img src="https://github.com/nikonn01/Advanced-Program-Development-C-course/blob/master/Playground%202.jpg">
 
-The third playgrpound shows just the currect coordinates of each shape on the playground
+The third playground shows just the current coordinates of each shape on the playground
 
 <img src="https://github.com/nikonn01/Advanced-Program-Development-C-course/blob/master/Playground%203.jpg">
